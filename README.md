@@ -36,3 +36,7 @@ when i use java springboot ,i have some problem
 ### 16.有没有生成MyBatis的xml的工具？
 
 ### 17.怎么让接口可以支持跨域请求？
+
+### 18.Java里如何做日期格式化？
+
+### 19.怎么除法向上取整？
