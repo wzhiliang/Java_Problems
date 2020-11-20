@@ -40,3 +40,9 @@ when i use java springboot ,i have some problem
 ### 18.Java里如何做日期格式化？
 
 ### 19.怎么除法向上取整？
+
+### 20.rabbitMQ和kafka？
+
+### 21.springboot中缓存的使用？
+
+### 22.部署在服务器上报溢出，如何解决？
